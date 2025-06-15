@@ -1,0 +1,115 @@
+body{
+   background-color:black;
+   color: black;
+   
+}
+.container{
+    border: 2px solid red;
+    border-radius: 25px;
+    border-color: orangered;
+    width: 350px;
+    height: 470px;
+    text-align: center;
+    margin:auto;
+    margin-top: 90px;
+    background-color:rgb(248, 79, 17);
+    box-shadow: 3px 3px 3px rgb(243, 131, 90);
+
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 40px;
+    gap: 20px;  
+}
+input{
+    width: 259px;
+    height: 45px;
+    border-radius: 25px;
+    border:none;
+}
+button{
+    border-radius: 50%;
+    width: 45px;
+    border-style: none;
+}
+h3{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 120px;
+    margin-top: 20px;
+    text-shadow: 10px 10px 10px black;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    margin-top: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+p{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -25px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: -110px;
+    font-size: 15px;
+
+}
+h4{
+    display: flex;
+    justify-content: center;
+    margin-top: -15px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+hr{
+    width: 310px;
+    
+    
+}
+
+.Tem{
+    display: flex;
+    justify-content:space-around;
+    gap: 40px;
+    font-size: 20px;
+}
+.num{
+    display: flex;
+    justify-content:space-around;
+    gap: 60px;
+    font-size: 18px;
+    margin-top:-45px;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+.W{
+    padding-left: 20px;
+}
+.H{
+    margin-right: 13px;
+
+}
+.T{
+    margin-left: 30px;
+}
+.per{
+    margin-right: 30px;
+}
+.degree{
+    margin-left: 34px;
+}
+.num2{
+    font-size:16px ;
+}
+
+
